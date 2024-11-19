@@ -1,5 +1,5 @@
 # rubber-ducky
-rubber ducky using a Raspberry Pi Pico W. 
+rubber ducky using a raspberry pi pico w. 
 
 deploys a web service which can be used to write, edit and run scripts on a target machine. 
 
