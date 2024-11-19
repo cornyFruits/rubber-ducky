@@ -1,11 +1,11 @@
 # rubber-ducky
-Rubber ducky using a Raspberry Pi Pico W. 
+rubber ducky using a Raspberry Pi Pico W. 
 
-Deploys a web service which can be used to write, edit and run scripts on a target machine. 
+deploys a web service which can be used to write, edit and run scripts on a target machine. 
 
-For academic and educational purposes only. 
+for academic and educational purposes only. 
 
-Sources:
+sources:
 
 https://github.com/dbisu/pico-ducky?tab=readme-ov-file
 
