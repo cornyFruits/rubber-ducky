@@ -1,5 +1,5 @@
 secrets = {
-    'ssid' : "BadAPName",
-    'password' : "badpassword"
+    'ssid' : "bAdidEa",
+    'password' : "urmom69password"
 }
 
